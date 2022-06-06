@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 📝 I regularly write articles on [https://dev.to/gaurisuryawanshi](https://dev.to/gaurisuryawanshi)
+- 📝 I regularly write articles on [dev.to](https://dev.to/gaurisuryawanshi)
+
+- 👨‍💻 Check out my portfolio at [here](https://gauri-suryawanshi.github.io/)
 
 - 💬 Ask me about **Azure**
 

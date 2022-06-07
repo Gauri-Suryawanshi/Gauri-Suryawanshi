@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gauri Suryawanshi</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Gauri-Suryawanshi&data=followers,repositories,stars,commits)](https://github.com/Gauri-Suryawanshi/github-widgetbox)
+
 <img width="50%" align="right" alt="Github" src="https://c.tenor.com/S59bPkT0pqcAAAAC/tenor.gif" />
 
 

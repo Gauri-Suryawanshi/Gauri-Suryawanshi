@@ -12,8 +12,6 @@
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/gaurisuryawanshi)
 
-- 👨‍💻 Check out my portfolio at [here](https://gauri-suryawanshi.github.io/)
-
 - 💬 Ask me about **Azure**
 
 - 📫 How to reach me **gaurisuryawanshi3008@gmail.com**
